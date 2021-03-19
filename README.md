@@ -1,2 +1,2 @@
 # NetflixSwiftUI
-Making Netflix by Swift UI (Clone coding)
+Making Netflix-like iOS app by Swift UI (Clone coding)
